@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Nuclear",
+  "base_artist": "Mike Oldfield",
+  "createdAt": "2026-03-02T13:34:18.229347Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nuclear Fusion",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Nuclear_Fusion_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nuclear Fusion",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Nuclear_Fusion_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nuclear Device",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/03_Nuclear_Device_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nuclear Seasons",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/04_Nuclear_Seasons_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nuclear Seasons",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/05_Nuclear_Seasons_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nuclear War (On The Dance Floor)",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/06_Nuclear_War_(On_The_Dance_Floor)_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nuclear War",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/07_Nuclear_War_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Insaneology [ft. Sean Martin of Hatebreed, John Tardy of Obituary and Dan Lilker of Nuclear Assault]",
+      "artist": "Necro",
+      "has_synced": true,
+      "path": "select/08_Insaneology_[ft._Sean_Martin_of_Hatebreed,_John_Tardy_of_Obituary_and_Dan_Lilker_Necro.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Atomic Moog 2000 (Post Nuclear After life Lounge Mix)",
+      "artist": "Coldcut",
+      "has_synced": false,
+      "path": "select/09_Atomic_Moog_2000_(Post_Nuclear_After_life_Lounge_Mix)_Coldcut.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nuclear Seasons - Balam Acab Remix",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/10_Nuclear_Seasons_-_Balam_Acab_Remix_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nuclear Seasons (Balam Acab Remix)",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/11_Nuclear_Seasons_(Balam_Acab_Remix)_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nuclear Seasons (Hackman Remix)",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/12_Nuclear_Seasons_(Hackman_Remix)_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Armageddon It (The Nuclear Mix)",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/13_Armageddon_It_(The_Nuclear_Mix)_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Armageddon It (Nuclear Remix)",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/14_Armageddon_It_(Nuclear_Remix)_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Armageddon It [The Nuclear Mix]",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/15_Armageddon_It_[The_Nuclear_Mix]_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Post Nuclear Talking Blues",
+      "artist": "Big Country",
+      "has_synced": false,
+      "path": "select/16_Post_Nuclear_Talking_Blues_Big_Country.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nuclear",
+      "artist": "Mike Oldfield",
+      "has_synced": false,
+      "path": "select/pl_01_Nuclear_Mike_Oldfield.txt"
+    }
+  ]
+}
